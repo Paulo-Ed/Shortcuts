@@ -1,2 +1,2 @@
-# Shortcuts
-Atalhos úteis para windows e Visual Studio Code
+# SHORTCUTS
+Atalhos úteis para windows e Visual Studio Code.
