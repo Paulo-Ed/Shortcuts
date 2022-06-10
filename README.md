@@ -79,10 +79,26 @@ Atalhos úteis para windows e outros softwares.
         <td>Abre o gerenciador de tarefas</td>
     </tr>
   <tr>
+        <td>Alt + F4</td>
+        <td>Fechar progama</td>
+    </tr>
+  <tr>
+        <td>Alt + Tab</td>
+        <td>Alternar entre programas abertos</td>
+    </tr>
+    <tr>
+        <td>Shift + Delete</td>
+        <td>Excluir arquivo permanentemente</td>
+    </tr>
+    <tr>
+        <td>Shift + seta de direção</td>
+        <td>Seleciona mais de um item de uma janela ou texto</td>
+    </tr>
+    <tr>
         <td></td>
         <td></td>
     </tr>
-  <tr>
+    <tr>
         <td></td>
         <td></td>
     </tr>
@@ -124,8 +140,8 @@ Atalhos úteis para windows e outros softwares.
         <td>Ir para a home page</td>
     </tr>
   <tr>
-        <td></td>
-        <td></td>
+        <td>Alt + espaço</td>
+        <td>Abre o menu de atalho da janela</td>
     </tr>
   <tr>
         <td></td>
